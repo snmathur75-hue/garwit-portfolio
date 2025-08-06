@@ -36,7 +36,7 @@ const Hero = () => {
               <div className="absolute inset-0 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 animate-pulse"></div>
               <div className="w-full h-full rounded-full bg-gray-800 flex items-center justify-center relative overflow-hidden">
                 <img
-                  src="https://i.postimg.cc/T2LRhh9N/photo-removebg-preview.png"
+                  src="/profile-enhanced.png"
                   alt="Garwit Mathur"
                   className="w-full h-full rounded-full object-cover transition-transform duration-500 group-hover:scale-110"
                 />
